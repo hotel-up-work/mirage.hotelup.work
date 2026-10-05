@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://mirage.chernivtsi.space/sitemap.xml
+Sitemap: https://mirage.hotelup.work/sitemap.xml
